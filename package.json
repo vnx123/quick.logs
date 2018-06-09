@@ -1,0 +1,11 @@
+{
+  "name": "quick.logs",
+  "version": "2.0.1",
+  "description": "A tiny npm package for users starting out with coding to make their console easier to read.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vnx",
+  "license": "ISC"
+}
